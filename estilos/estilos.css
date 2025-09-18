@@ -1,4 +1,4 @@
-@charset 'UTF-8';
+@charset "UTF-8";
 * {
     margin: 0;
     padding: 0;
@@ -40,7 +40,7 @@ iframe#tela {
     transform: translate(-50%, -50%);
 
     height: 475px;
-    width: 268px;
+    width: 267px;
 }
 
 section#redes-sociais {
